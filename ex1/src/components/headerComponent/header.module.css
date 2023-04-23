@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    align-items: center;
+}    
+.logo{
+    width: 140px;
+}
+.logo img{
+    width: 100%;
+}
+.menu{
+    display: flex;
+    column-gap: 60px;
+}
+.menu a{
+    text-decoration: none;
+    color: #702053;
+}
